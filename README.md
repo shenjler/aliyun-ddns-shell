@@ -73,3 +73,16 @@
 ![配置页面](https://raw.githubusercontent.com/risfeng/aliyun-ddns-shell/master/src/aliyun/screenshot/ss2.jpg)
 ![运行页面](https://raw.githubusercontent.com/risfeng/aliyun-ddns-shell/master/src/aliyun/screenshot/ss3.jpg)
 ## 欢迎star给予支持
+
+---- 
+# 添加及解析子域名
+```
+Api文档：
+# 获取 TXT记录值
+https://www.alibabacloud.com/help/zh/doc-detail/145533.htm
+
+# 添加域名解析记录
+https://www.alibabacloud.com/help/zh/doc-detail/29772.htm?spm=a2c63.p38356.b99.108.7bb44438AvlISn
+
+
+```
