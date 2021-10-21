@@ -78,11 +78,14 @@
 # 添加及解析子域名
 ```
 Api文档：
-# 获取 TXT记录值
-https://www.alibabacloud.com/help/zh/doc-detail/145533.htm
+# 获取TXT记录值, 用于检验添加子域名
+https://www.alibabacloud.com/help/zh/doc-detail/145533.htm   Type参数值ADD_SUBDOMAIN有误
+https://antchain.antgroup.com/docs/2/145533
 
-# 添加域名解析记录
+# 添加域名或子域名解析记录
 https://www.alibabacloud.com/help/zh/doc-detail/29772.htm?spm=a2c63.p38356.b99.108.7bb44438AvlISn
 
+# 添加域名或子域名
+https://www.alibabacloud.com/help/zh/doc-detail/29749.htm?spm=a2c63.p38356.b99.73.7f41380dAwkptL
 
 ```
