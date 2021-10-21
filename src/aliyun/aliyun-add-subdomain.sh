@@ -323,6 +323,7 @@ function main_run(){
     AddSubDomain
     sleep 3s
     AddSubDomainRecord
+    ping -c 3 $var_sub_domain
     exit 0
 }
 
